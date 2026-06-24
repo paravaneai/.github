@@ -13,6 +13,7 @@ We build complementary tools that improve how people interact with existing infr
 ## Software
 
 * [File Browser Desktop](https://github.com/paravaneai/filebrowser-desktop)
+
   A Windows desktop client for private File Browser access over SSH tunnels.
 
   File Browser Desktop is a complementary desktop application built by Paravane Labs to support the use of [File Browser](https://github.com/filebrowser/filebrowser). Paravane Labs did not create File Browser; File Browser is developed and maintained by the [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) project. Our work focuses on improving access patterns, desktop usability, and secure operational workflows around it.

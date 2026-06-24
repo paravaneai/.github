@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/paravane-hero.svg" alt="Paravane AI" width="100%">
+  <img src="./assets/readme-paravane-labs-hero-banner-orange-black.png" alt="Paravane AI">
 </p>
 
 ## Build With Paravane AI

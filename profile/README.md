@@ -1,5 +1,5 @@
 <p align=center>
-  <img src=./assets/readme-paravane-labs-hero-banner-orange-black.png alt=Paravane Labs>
+  <img src=./assets/paravane-labs-github-readme-banner-orange-gradient-dark-premium-upscaled-3x.png alt=Paravane Labs>
 </p>
 
 ## Paravane Labs

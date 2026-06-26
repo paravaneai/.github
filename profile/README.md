@@ -1,37 +1,50 @@
-<p align="center">
-  <img src="./assets/readme-paravane-labs-hero-banner-orange-black.png" alt="Paravane Labs">
+<p align=center>
+  <img src=./assets/readme-paravane-labs-hero-banner-orange-black.png alt=Paravane Labs>
 </p>
 
-## Build With Paravane Labs
+## Paravane Labs
 
-Paravane Labs builds focused tools for secure automation, infrastructure visibility, and operational workflows.
+Paravane Labs builds focused intelligence tools for product, trust, operations, and infrastructure teams.
 
-Our work centers on practical systems that make complex environments easier to inspect, operate, and trust.
+Our work centers on practical systems that make technical workflows easier to inspect, automate, and trust without removing human review from the decisions that matter.
 
-We build complementary tools that improve how people interact with existing infrastructure and open-source software. Our goal is not to replace the original projects we support, but to make them easier to access, operate, and integrate into secure workflows.
+## Products
 
-## Software
+### smtpRS
 
-* [File Browser Desktop](https://github.com/paravaneai/filebrowser-desktop)
+smtpRS is Paravane Labs' email risk intelligence API.
 
-  A Windows desktop client for private File Browser access over SSH tunnels.
+It scores email identity signals and returns compact, decision-ready risk information for onboarding, account review, trust operations, and product workflows.
 
-  File Browser Desktop is a complementary desktop application built by Paravane Labs to support the use of [File Browser](https://github.com/filebrowser/filebrowser). Paravane Labs did not create File Browser; File Browser is developed and maintained by the [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) project. Our work focuses on improving access patterns, desktop usability, and secure operational workflows around it.
+- Website: [paravane.io](https://paravane.io/)
+- Docs: [paravane.io/pages/docs](https://paravane.io/pages/docs/index.html)
+- Product: [smtpRS](https://paravane.io/pages/products/smtprs.html)
+
+## Open Source and Developer Tools
+
+Paravane Labs maintains public repositories for SDKs, developer tooling, documentation, and operational utilities.
+
+Current public work includes:
+
+- [File Browser Desktop](https://github.com/paravaneai/filebrowser-desktop): a Windows desktop client for private File Browser access over SSH tunnels.
+
+File Browser Desktop is complementary tooling for the upstream [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) project. Paravane Labs did not create File Browser; our work focuses on access patterns, desktop usability, and secure operational workflows around it.
 
 ## Focus Areas
 
-* Secure server access patterns
-* Desktop tooling for operational workflows
-* Complementary tools for existing open-source infrastructure
-* Automation that keeps human review in the loop
-* Clear documentation, packaging, and release hygiene
+- API products for applied risk and operational intelligence
+- Developer SDKs and integration examples
+- Secure access patterns for private systems
+- Human-reviewed automation workflows
+- Clear documentation, packaging, and release hygiene
 
-## Get Involved
+## Working With Us
 
-* Explore our public repositories.
-* Open issues for bugs and feature requests.
-* Review each repository's `SECURITY.md` before reporting vulnerabilities.
+- Explore public repositories for SDKs, examples, and tools.
+- Open issues for bugs or focused feature requests.
+- Review each repository's `README.md`, `CONTRIBUTING.md`, and `SECURITY.md` before submitting reports.
+- Send vulnerability reports to `security@paravane.io` instead of public issues.
 
 ---
 
-Paravane Labs projects follow their repository code of conduct and security disclosure guidance.
+Paravane Labs is a DOYDL Technologies company.

@@ -22,14 +22,14 @@ It scores email identity signals and returns compact, decision-ready risk inform
 
 ## Open Source and Developer Tools
 
-Paravane Labs maintains public repositories for SDKs, developer tooling, documentation, and operational utilities.
+Paravane Labs maintains public repositories for SDKs, developer tools, documentation, and operational utilities.
 
-Current public work includes:
+Current projects include:
 
-- [File Browser Desktop for Windows](https://github.com/paravaneai/filebrowser-desktop-windows): a native Windows desktop client for private File Browser access over SSH tunnels.
-- [File Browser Desktop for macOS and Linux](https://github.com/paravaneai/filebrowser-desktop-macos-linux): a POSIX-focused desktop client for private File Browser access over SSH tunnels on macOS and Linux.
+- [File Browser Desktop for Windows](https://github.com/paravaneai/filebrowser-desktop-windows) — A native Windows desktop client that provides secure access to private File Browser deployments through SSH tunnels.
+- [File Browser Desktop for macOS and Linux](https://github.com/paravaneai/filebrowser-desktop-macos-linux) — A cross-platform desktop client for macOS and Linux that provides secure access to private File Browser deployments through SSH tunnels.
 
-File Browser Desktop is complementary tooling for the upstream [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) project. Paravane Labs did not create File Browser; our work focuses on platform-specific desktop clients, secure SSH-based access patterns, and operational workflows around private File Browser deployments.
+File Browser Desktop extends the upstream [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) project with platform-specific desktop clients and workflows for securely accessing private deployments. Paravane Labs did not create or maintain File Browser itself; our work focuses on desktop integration, SSH-based connectivity, and operational tooling.
 
 ## Focus Areas
 

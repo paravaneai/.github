@@ -48,4 +48,4 @@ File Browser Desktop is complementary tooling for the upstream [filebrowser/file
 
 ---
 
-Paravane Labs is a DOYDL Technologies company.
+© 2026 Paravane Labs. A DOYDL Technologies company.

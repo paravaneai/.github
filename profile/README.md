@@ -48,4 +48,4 @@ File Browser Desktop extends the upstream [filebrowser/filebrowser](https://gith
 
 ---
 
-© 2026 Paravane Labs. A DOYDL Technologies company.
+© 2026 Paravane Labs. A [DOYDL Technologies](https://github.com/doydl-technologies) company.
